@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gelasaa/waliin.git/static/css/main.2cad9031.css",
+    "main.js": "/Gelasaa/waliin.git/static/js/main.dac41272.js",
+    "static/js/787.ba2d301a.chunk.js": "/Gelasaa/waliin.git/static/js/787.ba2d301a.chunk.js",
+    "index.html": "/Gelasaa/waliin.git/index.html",
+    "main.2cad9031.css.map": "/Gelasaa/waliin.git/static/css/main.2cad9031.css.map",
+    "main.dac41272.js.map": "/Gelasaa/waliin.git/static/js/main.dac41272.js.map",
+    "787.ba2d301a.chunk.js.map": "/Gelasaa/waliin.git/static/js/787.ba2d301a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cad9031.css",
+    "static/js/main.dac41272.js"
+  ]
+}
